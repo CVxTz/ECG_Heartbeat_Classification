@@ -1,0 +1,5 @@
+numpy==1.16.3
+plotly==3.0.0
+Keras==2.2.4
+pandas==0.20.3
+scikit_learn==0.21.1
